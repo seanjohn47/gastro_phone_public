@@ -10,7 +10,7 @@
   <a href="https://firebase.google.com/"><img src="github_assets/firebase_logo.svg" alt="Firebase Logo"></a>
 </p>
 <h1 align="center"></h1>
-<a href="https://gastro-phone.web.app/"><h1 align="center">Live Demo</h1></a>
+<h1 align="center"><a href="https://gastro-phone.web.app/">Live Demo</a></h1>
 <p align="center">
   <img src="github_assets/qr_code.png" alt="Qr Code" width="77px">
 </p>
