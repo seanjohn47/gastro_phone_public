@@ -2,7 +2,6 @@ import axios from 'axios'
 
 export default {
   setData(vuexContext) {
-    // console.log('Init vuex store with data from DB (firebase)');
     return axios
       .get(process.env.firebaseBaseURL + 'speisekarte.json')
       .then((res) => {
