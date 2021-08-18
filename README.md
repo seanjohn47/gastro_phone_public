@@ -18,3 +18,4 @@
   <img src="github_assets/rainbow_line.png" alt="Qr Code" width="100%" height="10px">
 </p>
 <h2> :pencil: About the Project</h2>
+<p>This is a current prototype and is meant for demonstration purposes only. The project is still under active development in a private repo. Feedback is appriciated. ✌</p>
